@@ -1,6 +1,8 @@
+%define debug_package %{nil}
+
 %define name	boycotadvance
 %define version	0.2.8
-%define release	%mkrel 0.r1.4
+%define release	0.r1.4
 
 Summary:	Gameboy Advance emulator
 Name:		%{name}
