@@ -11,7 +11,7 @@ Release:	%{release}
 Epoch:		1
 Group:		Emulators
 License:	Freeware
-URL:		http://boycottadvance.emuunlim.com/
+URL:		https://boycottadvance.emuunlim.com/
 Source0:	http://sdlemu.ngemu.com/releases/BoyCottAdvance-SDL-0.2.8R1.i386.linux.tar.gz
 BuildRequires:	chrpath
 BuildRoot:	%{_tmppath}/%{name}-root
